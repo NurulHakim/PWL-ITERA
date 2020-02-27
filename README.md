@@ -29,6 +29,9 @@ ubah ke
 |Dimas Adiyaksa | 14116047 | github.com/dimasadyaksa/TugasPWL |
 |Nur Ali Majid	| 14115015 | https://github.com/majidilkhithar/14115015-PWL |
 |RaviPrayoga    | 14116081 | https://github.com/raviprayoga/14116081-PWL |
+|Nurma Yunita Sari | 14117085 | https://github.com/nrmynitasr/PWL |
+|Muhammad Taufiq Hidayat | 14116162 | https://github.com/mtfiqh/PWL |
+|Laurensius Joshua Anrico Agustinus | 14117141 | https://github.com/joshuaanrico/14117141-PWL |
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
